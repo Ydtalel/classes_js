@@ -1,0 +1,26 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ydtalel/classes_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ydtalel/classes_js/issues"
+  },
+  "homepage": "https://github.com/Ydtalel/classes_js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "core-js": "^3.33.2",
+    "jest": "^29.7.0"
+  }
+}
